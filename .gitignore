@@ -1,0 +1,8 @@
+.vs/
+
+*.nuget.props
+*.paket.restore
+*nupkg
+
+appsettings.json
+appsettings.Development.json

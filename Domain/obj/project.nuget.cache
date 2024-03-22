@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlCC+wRXGia6BDQ94/qH1b5eSnoZ+HRH2Y6OFoyqB8mDt2BXsGDjuSMpTUMJxlLG0XBk46Sz5jqgmiohsfS8bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geogu\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
