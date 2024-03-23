@@ -19,24 +19,33 @@ internal sealed class CreateCustomerCommandHandler : IRequestHandler<CreateCusto
 
     public async Task<ErrorOr<Guid>> Handle(CreateCustomerCommand command, CancellationToken cancellationToken)
     {
-
-        if (PhoneNumber.Create(command.PhoneNumber) is not PhoneNumber phoneNumber)
+        try
         {
-            return Error.Validation("Customer.PhoneNumber", "El numero de telefono no tiene un formato valido");
+            //if (PhoneNumber.Create(command.PhoneNumber) is not PhoneNumber phoneNumber)
+            //{
+            //    return Error.Validation("Customer.PhoneNumber", "El numero de telefono no tiene un formato valido");
+            //}
+
+            var customer = new Customer(
+                new CustomerId(Guid.NewGuid()),
+                command.Name,
+                command.LastName,
+                command.Identification,
+                command.PhoneNumber,
+                true);
+
+            _customerRepository.Add(customer);
+            await _unitOfWork.SaveChangesAsync(cancellationToken);
+
+            return customer.Id.Value;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex);
+            throw;
         }
 
-        var customer = new Customer(
-            new CustomerId(Guid.NewGuid()),
-            command.Name,
-            command.LastName,
-            command.Identification,
-            phoneNumber,
-            true);
-
-        _customerRepository.Add(customer);
-        await _unitOfWork.SaveChangesAsync(cancellationToken);
-
-        return customer.Id.Value;
+        
 
         
     }

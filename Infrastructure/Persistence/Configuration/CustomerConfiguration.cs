@@ -20,11 +20,13 @@ namespace Infrastructure.Persistence.Configuration
             builder.Ignore(c => c.FullName);
             builder.Property(c => c.Identification).HasMaxLength(10);
             builder.HasIndex(c => c.Identification).IsUnique();
+            builder.Property(c => c.PhoneNumber).HasMaxLength(10);
 
-            builder.Property(c => c.PhoneNumber).HasConversion(
-                phoneNumber => phoneNumber.Value,
-                value => PhoneNumber.Create(value)!)
-                .HasMaxLength(9);
+
+            //builder.Property(c => c.PhoneNumber).HasConversion(
+            //    phoneNumber => phoneNumber,
+            //    value => PhoneNumber.Create(value)!)
+            //    .HasMaxLength(9);
 
 
         }

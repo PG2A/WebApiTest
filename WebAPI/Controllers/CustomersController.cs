@@ -7,9 +7,11 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using ErrorOr;
 using Application.Customers.Get;
+using Microsoft.AspNetCore.Cors;
 
 namespace Web.API.Controllers;
 
+[EnableCors]
 [Route("clientes")]
 public class Customers : ApiController
 {

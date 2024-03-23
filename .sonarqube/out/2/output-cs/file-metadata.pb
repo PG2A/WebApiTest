@@ -1,0 +1,11 @@
+f
+[D:\PruebaColorado\WebApiTest\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.csutf-8v
+kD:\PruebaColorado\WebApiTest\Infrastructure\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8h
+]D:\PruebaColorado\WebApiTest\Infrastructure\obj\Debug\net7.0\Infrastructure.GlobalUsings.g.csutf-8c
+ZD:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Repositories\CustomerRepository.csutf-8r
+gD:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\ApplicationDbContextModelSnapshot.csutf-8y
+nD:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\20240322024426_InitialMigration.Designer.csutf-8n
+eD:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\20240322024426_InitialMigration.csutf-8g
+^D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Configuration\CustomerConfiguration.csutf-8X
+OD:\PruebaColorado\WebApiTest\Infrastructure\Persistence\ApplicationDbContext.csutf-8J
+AD:\PruebaColorado\WebApiTest\Infrastructure\DependecyInjection.csutf-8

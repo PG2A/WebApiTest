@@ -26,7 +26,7 @@ internal sealed class GetCustomerByIdQueryHandler : IRequestHandler<GetCustomerB
             customer.Id.Value, 
             customer.FullName, 
             customer.Identification, 
-            customer.PhoneNumber.Value, 
+            customer.PhoneNumber, 
             customer.Active);
     }
 }

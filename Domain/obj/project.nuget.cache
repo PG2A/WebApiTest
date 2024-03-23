@@ -1,16 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vlCC+wRXGia6BDQ94/qH1b5eSnoZ+HRH2Y6OFoyqB8mDt2BXsGDjuSMpTUMJxlLG0XBk46Sz5jqgmiohsfS8bg==",
+  "dgSpecHash": "ciCIeVIsSNhEsbX+uVJ28TLtuieC0mXAomColn5u+Wp5JTbJiNvLWE7U1xKF2GEhdiIu+Rvlwl0nUP6VnPuxwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\PruebaColorado\\WebApiTest\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\geogu\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\geogu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+    "C:\\Users\\Jazmany\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\Jazmany\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Jazmany\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jazmany\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

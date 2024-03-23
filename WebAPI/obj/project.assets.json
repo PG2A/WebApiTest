@@ -4149,32 +4149,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\geogu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Jazmany\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\PruebaColorado\\WebApiTest\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\geogu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\WebAPI\\obj\\",
+      "projectPath": "D:\\PruebaColorado\\WebApiTest\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Jazmany\\.nuget\\packages\\",
+      "outputPath": "D:\\PruebaColorado\\WebApiTest\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\geogu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Users\\Jazmany\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -4183,11 +4184,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Application\\Application.csproj"
+            "D:\\PruebaColorado\\WebApiTest\\Application\\Application.csproj": {
+              "projectPath": "D:\\PruebaColorado\\WebApiTest\\Application\\Application.csproj"
             },
-            "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\geogu\\Documents\\TestGlobalHitss\\Test\\Infrastructure\\Infrastructure.csproj"
+            "D:\\PruebaColorado\\WebApiTest\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\PruebaColorado\\WebApiTest\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -4237,24 +4238,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4263,7 +4246,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

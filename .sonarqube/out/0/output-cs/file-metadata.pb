@@ -1,0 +1,12 @@
+
+tSystem.Text.RegularExpressions.Generator\System.Text.RegularExpressions.Generator.RegexGenerator\RegexGenerator.g.csutf-8V
+KD:\PruebaColorado\WebApiTest\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.csutf-8n
+cD:\PruebaColorado\WebApiTest\Domain\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8X
+MD:\PruebaColorado\WebApiTest\Domain\obj\Debug\net7.0\Domain.GlobalUsings.g.csutf-8H
+?D:\PruebaColorado\WebApiTest\Domain\ValueObjects\PhoneNumber.csutf-8F
+=D:\PruebaColorado\WebApiTest\Domain\Primitives\IUnitOfWork.csutf-8F
+=D:\PruebaColorado\WebApiTest\Domain\Primitives\DomainEvent.csutf-8G
+>D:\PruebaColorado\WebApiTest\Domain\Primitives\AgregateRoot.csutf-8M
+DD:\PruebaColorado\WebApiTest\Domain\Customers\ICustomerRepository.csutf-8D
+;D:\PruebaColorado\WebApiTest\Domain\Customers\CustomerId.csutf-8B
+9D:\PruebaColorado\WebApiTest\Domain\Customers\Customer.csutf-8

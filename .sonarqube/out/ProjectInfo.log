@@ -1,0 +1,27 @@
+Product projects
+---------------------------------------
+D:\PruebaColorado\WebApiTest\Domain\Domain.csproj
+D:\PruebaColorado\WebApiTest\Application\Application.csproj
+D:\PruebaColorado\WebApiTest\Infrastructure\Infrastructure.csproj
+D:\PruebaColorado\WebApiTest\WebAPI\WebAPI.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

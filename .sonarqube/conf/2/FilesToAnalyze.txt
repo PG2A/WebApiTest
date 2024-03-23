@@ -1,0 +1,7 @@
+﻿D:\PruebaColorado\WebApiTest\Infrastructure\DependecyInjection.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\ApplicationDbContext.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Configuration\CustomerConfiguration.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\20240322024426_InitialMigration.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\20240322024426_InitialMigration.Designer.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Migrations\ApplicationDbContextModelSnapshot.cs
+D:\PruebaColorado\WebApiTest\Infrastructure\Persistence\Repositories\CustomerRepository.cs

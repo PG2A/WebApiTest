@@ -22,15 +22,15 @@ internal sealed class UpdateCustomerCommandHandler : IRequestHandler<UpdateCusto
             return Error.NotFound("Customer.NotFound", "El cliente con el Id proporcionado no se encontró");
         }
 
-        if (PhoneNumber.Create(command.PhoneNumber) is not PhoneNumber phoneNumber)
-        {
-            return Error.Validation("Customer.PhoneNumber", "El numero de telefono tiene un formato invalido");
-        }
+        //if (PhoneNumber.Create(command.PhoneNumber) is not PhoneNumber phoneNumber)
+        //{
+        //    return Error.Validation("Customer.PhoneNumber", "El numero de telefono tiene un formato invalido");
+        //}
 
         Customer customer = Customer.UpdateCustomer(command.Id, command.Name,
             command.LastName,
             command.Identification,
-            phoneNumber,
+            command.PhoneNumber,
             command.Active);
 
         _customerRepository.Update(customer);

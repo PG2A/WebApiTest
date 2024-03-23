@@ -1,0 +1,17 @@
+﻿D:\PruebaColorado\WebApiTest\WebAPI\Common\Errors\TestProblemDetailsFactory.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Common\Http\HttpContextItemKeys.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Controllers\ApiController.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Controllers\CustomersController.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Controllers\ErrorsController.cs
+D:\PruebaColorado\WebApiTest\WebAPI\DependencyInjection.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Extensions\MigrationExtensions.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Middlewares\GlobalExceptionHandlingMiddleware.cs
+D:\PruebaColorado\WebApiTest\WebAPI\PresentationAssemblyReference.cs
+D:\PruebaColorado\WebApiTest\WebAPI\Program.cs
+D:\PruebaColorado\WebApiTest\WebAPI\obj\Debug\net7.0\WebAPI.GlobalUsings.g.cs
+D:\PruebaColorado\WebApiTest\WebAPI\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\PruebaColorado\WebApiTest\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+D:\PruebaColorado\WebApiTest\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\PruebaColorado\WebApiTest\WebAPI\appsettings.Development.json
+D:\PruebaColorado\WebApiTest\WebAPI\appsettings.json
+D:\PruebaColorado\WebApiTest\WebAPI\Properties\launchSettings.json

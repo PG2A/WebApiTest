@@ -1,0 +1,7 @@
+﻿D:\PruebaColorado\WebApiTest\Domain\Customers\Customer.cs
+D:\PruebaColorado\WebApiTest\Domain\Customers\CustomerId.cs
+D:\PruebaColorado\WebApiTest\Domain\Customers\ICustomerRepository.cs
+D:\PruebaColorado\WebApiTest\Domain\Primitives\AgregateRoot.cs
+D:\PruebaColorado\WebApiTest\Domain\Primitives\DomainEvent.cs
+D:\PruebaColorado\WebApiTest\Domain\Primitives\IUnitOfWork.cs
+D:\PruebaColorado\WebApiTest\Domain\ValueObjects\PhoneNumber.cs

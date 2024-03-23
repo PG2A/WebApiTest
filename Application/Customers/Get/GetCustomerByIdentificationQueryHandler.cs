@@ -32,7 +32,7 @@ namespace Application.Customers.Get
             customer.Id.Value,
             customer.FullName,
             customer.Identification,
-            customer.PhoneNumber.Value,
+            customer.PhoneNumber,
             customer.Active);
         }
     }
